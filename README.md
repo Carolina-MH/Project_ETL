@@ -24,18 +24,22 @@ En el transcurso de este proyecto, he desplegado una serie de técnicas de extra
 
 🔍 [Extracción de datos a través de Archivos CSV (INE)](notebook/INE_2022.ipynb):  inicié el proyecto aplicando la extracción a través de archivos CSV.
 
-🔍 [Extracción de datos a través de API (AEMET)](notebook/Clima.ipynb): simultáneamente, opté por emplear una API para obtener los datos climáticos. Esta elección me proporcionó acceso inmediato a los datos climáticos mensuales por provincia en 2022, asegurandome la precisión y actualización de los mismos.
+🔍 [Extracción de datos a través de API (AEMET)](notebook/API(AEMET).ipynb): simultáneamente, opté por emplear una API para obtener los datos climáticos. Esta elección me proporcionó acceso inmediato a los datos climáticos mensuales por provincia en 2022, asegurandome la precisión y actualización de los mismos.
 
-🔍 [Extracción de datos mediante Webscraping (Wikipedia)](notebook/Población.ipynb):por último, para incorporar datos de población desde Wikipedia, hemos implementé esta técnica. Con esto, he logrado extraer datos específicos de manera automática y los he mantenido coherentes con las necesidades del proyecto.
+🔍 [Extracción de datos mediante Webscraping (Wikipedia)](notebook/Webscraping_población.ipynb):por último, para incorporar datos de población desde Wikipedia, hemos implementé esta técnica. Con esto, he logrado extraer datos específicos de manera automática y los he mantenido coherentes con las necesidades del proyecto.
 
 
 
 # Acciones realizadas
 
 ✔️ Importación de datos
+
 ✔️ Limpieza de datos
+
 ✔️ Reorganización
+
 ✔️ Creación de un nuevo DB en Mongo
+
 ✔️ Exportación al nuevo DB estableciendo colecciones
 
 
