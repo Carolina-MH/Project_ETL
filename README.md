@@ -46,7 +46,7 @@ En el transcurso de este proyecto, he desplegado una serie de técnicas de extra
 # Conclusión 💡
 
 
-A lo largo de este proyecto, he aplicado diversas técnicas para extraer datos esenciales de turismo, clima y población. Estos datos se encuentran ahora limpios y estructurados, listos para impulsar futuros análisis e investigaciones. 
+A lo largo de este proyecto, he aplicado diversas técnicas para extraer datos esenciales de turismo, clima y población. Estos datos se encuentran ahora limpios y estructurados, listos para impulsar futuros análisis e investigaciones.
 
 Con esta base sólida en mis manos, podrá continuar explorando las  relaciones entre turismo, clima y población en las provincias de España.
 
